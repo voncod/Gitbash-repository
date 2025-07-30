@@ -24,5 +24,5 @@ Create an interactive game in Bash to reinforce the following concepts:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/youruser/yourrepository.git
+git clone https://github.com/voncod/Git-Bash-repository.git
 cd yourrepository
